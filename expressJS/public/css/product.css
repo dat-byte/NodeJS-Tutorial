@@ -9,17 +9,17 @@
     max-width: 95%;
 }
 
-.product_title {
+.product__title {
     font-size: 1.2rem;
     text-align: center;
 }
 
-.product-price {
+.product__price {
     text-align: center;
     color: #4d4d4d;
     margin-bottom: 0.5rem;
 }
 
-.product-description {
+.product__description {
     text-align: center;
 }
